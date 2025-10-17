@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg2ajVqcnRnaHIxcTV5cnZrbW95N29uNzVha2xsOGJjdmZwdm5oZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZQCo1MgjmnJ1oOeip/giphy.gif" 
+    src="https://giphy.com/gifs/FabBuilder-fabbuilder-sNpgrhRUmhJhDQCceA" 
     width="420" 
     alt="Coding animation"
   >
