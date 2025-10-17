@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg2ajVqcnRnaHIxcTV5cnZrbW95N29uNzVha2xsOGJjdmZwdm5oZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZQCo1MgjmnJ1oOeip/giphy.gif" 
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg2ajVqcnRnaHIxcTV5cnZrbW95N29uNzVha2xsOGJjdmZwdm5oZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZQCo1MgjmnJ1oOeip/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamg2ajVqcnRnaHIxcTV5cnZrbW95N29uNzVha2xsOGJjdmZwdm5oZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QZQCo1MgjmnJ1oOeip/giphy.gif)" 
        width="420" 
        alt="Coding animation">
 </p>
